@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "XC8",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Software/Apps/CMS/data/include"
+            ],
+            "defines": [
+                "__XC8"
+            ],
+            "compilerPath": "C:/Software/Apps/CMS/data/bin/xc8.exe",
+            "cStandard": "c99",
+            "intelliSenseMode": "gcc-x86"
+        }
+    ],
+    "version": 4
+}

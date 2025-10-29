@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "*.dbclient-js": "javascript",
+        "*.json5": "json5",
+        "*.json": "jsonc",
+        "warm_air_blower.h": "c",
+        "cms.h": "c",
+        "config.h": "c",
+        "stdint.h": "c",
+        "touchkeyconst.h": "c",
+        "compare": "c",
+        "bit": "c",
+        "limits": "c",
+        "new": "c",
+        "touch_kscan_library.h": "c",
+        "rel_sender.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
